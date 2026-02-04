@@ -6,7 +6,7 @@ The project is built **without any backend**, as required, using **Jetpack Compo
 
 ---
 
-## OTP Logic & Expiry Handling (Mandatory)
+## OTP Logic & Expiry Handling
 
 - A **6-digit numeric OTP** is generated locally for the entered email.
 - OTP is valid for **60 seconds**.
@@ -24,7 +24,7 @@ The project is built **without any backend**, as required, using **Jetpack Compo
 
 ---
 
-## Data Structures Used & Reason (Mandatory)
+## Data Structures Used & Reason
 
 - **`Map<String, OtpData>`**  
   Used to store OTP data per email for fast lookup and easy invalidation.
@@ -39,7 +39,7 @@ These choices ensure clean state management, predictable behavior, and lifecycle
 
 ---
 
-## External SDK Used & Justification (Mandatory)
+## External SDK Used & Justification
 
 ### Firebase Analytics
 - Chosen because it is lightweight and does not require backend setup.
@@ -55,7 +55,7 @@ Other Firebase services (Auth, Messaging) were not used as they were outside the
 
 ---
 
-## GPT Usage Disclosure (Mandatory)
+## GPT Usage Disclosure
 
 GPT was used **selectively as a development assistant**.
 
@@ -75,7 +75,7 @@ GPT was used to **optimize development time**, while all core logic, architectur
 
 ---
 
-## Setup Instructions (Mandatory)
+## Setup Instructions
 
 ```bash
 git clone https://github.com/MdAhmadRaja/LocalAssignment.git
