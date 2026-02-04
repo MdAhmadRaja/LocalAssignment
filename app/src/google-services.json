@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502580269608",
+    "project_id": "classwork-791b6",
+    "storage_bucket": "classwork-791b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502580269608:android:708b196141c47225ce1b1d",
+        "android_client_info": {
+          "package_name": "com.example.flamingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502580269608-oo38cok86fbab8i5fohj4ldf57sba484.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5Z7c3vQoRiTGjpA9dmolRHIanSFByZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502580269608-oo38cok86fbab8i5fohj4ldf57sba484.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
